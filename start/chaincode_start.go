@@ -123,3 +123,4 @@ func (t *SimpleChaincode) read(stub shim.ChaincodeStubInterface, args []string) 
 
     return valAsbytes, nil
 }
+//end of the file 15 April 2017
